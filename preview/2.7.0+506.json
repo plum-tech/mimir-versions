@@ -1,0 +1,21 @@
+{
+  "version": "2.7.0+506",
+  "time": "2024-09-25T23:04:16.128Z",
+  "releaseNote": {
+    "zh-Hans": "这是最新的测试版。",
+    "en": "It's the latest preview version available."
+  },
+  "importance": "normal",
+  "minuteCanDelay": 10080,
+  "assets": {
+    "Android": {
+      "fileName": "sitlife-v2.7.0+506.apk",
+      "defaultSrc": "https://temp.sitmc.club/prepare-download/mimir-preview/sitlife-v2.7.0-506.apk",
+      "src": {}
+    },
+    "iOS": {
+      "appStore": null,
+      "testFlight": null
+    }
+  }
+}
